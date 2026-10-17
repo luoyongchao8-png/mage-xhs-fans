@@ -1,0 +1,87 @@
+{
+  "project": "马哥小红书粉丝助手",
+  "version": "0.3.1",
+  "date": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "status": "verified",
+  "scope": "standalone_document_recovery_and_offline_checks",
+  "document_contains_complete_source": true,
+  "restored_files": 34,
+  "all_file_hashes_match": true,
+  "runtime_files": 15,
+  "runtime_matches_reference": true,
+  "document_only_fresh_dependency_install": true,
+  "automated_tests": {
+    "passed": 48,
+    "failed": 0
+  },
+  "javascript_syntax_checks": {
+    "passed": 7,
+    "failed": 0
+  },
+  "npm_audit": {
+    "total": 0,
+    "critical": 0,
+    "high": 0,
+    "moderate": 0,
+    "low": 0
+  },
+  "extractor_safety": {
+    "tampered_content_rejected": true,
+    "unsafe_paths_rejected": true,
+    "missing_files_rejected": true,
+    "existing_nonempty_directory_preserved": true
+  },
+  "installation_zip_files": 18,
+  "standalone_build_matches_published_zip": true,
+  "privacy_scan": {
+    "public_text_entries_scanned": 49,
+    "private_machine_paths_found": 0,
+    "credential_patterns_found": 0,
+    "browser_profile_or_cache_included": false
+  },
+  "os_validation": {
+    "Windows": "document_restore_tests_and_build_passed",
+    "macOS": "instructions_provided_not_run",
+    "Linux": "instructions_provided_not_run"
+  },
+  "live_browser_reference": {
+    "reference_version": "0.3.1",
+    "platform": "Windows Chrome",
+    "single_author_query_previously_verified": true,
+    "other_os_live_test_performed": false,
+    "new_full20_live_test_performed": false
+  },
+  "artifacts": [
+    {
+      "file": "mage-xhs-fans-0.3.1-source.zip",
+      "bytes": 52094,
+      "sha256": "e5bc9d6d4e22305b9e153d949d20063e7b05dc6d629f71ba234a2d70d586ada6"
+    },
+    {
+      "file": "mage-xhs-fans-0.3.1.zip",
+      "bytes": 23545,
+      "sha256": "e1f9d8aa22ac92074e9250c92008986873f10bdfb6d1ce6a354bf2be858b4a7f"
+    },
+    {
+      "file": "README.md",
+      "bytes": 2953,
+      "sha256": "d566dd262b0e83eeb35cd05b46375f15e9844855e8757391ecb22fb42575a470"
+    },
+    {
+      "file": "restore_from_doc.py",
+      "bytes": 3218,
+      "sha256": "e5295fd964b859ae6c2fee2128ea55ef2b306ee26257167eed9f7e9a21679f4f"
+    },
+    {
+      "file": "小红书粉丝助手-跨环境一比一复刻文档.md",
+      "bytes": 169503,
+      "sha256": "db507ccba92bb7b4c9b30e330decd20df4985f68809b3bd42ab2d8f96775d3ef"
+    },
+    {
+      "file": "给AI的复刻指令.md",
+      "bytes": 1148,
+      "sha256": "a2027416ea4af4acdb67f0aaa515645adf25c5b4f66f40e40c85b05a486530bd"
+    }
+  ]
+}
